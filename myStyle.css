@@ -1,4 +1,26 @@
-p
-{
-    background-color: blue;
+body {
+    background-image: url("qbkls.png");
+    background-repeat: repeat;
+    padding: 50px;
+    font-family: 'Playfair Display', serif;
+  }
+h1 {
+    color: #ff6699;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.prof_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.prof_pic:hover {
+    content: url("bing_bong_7.png");
 }
